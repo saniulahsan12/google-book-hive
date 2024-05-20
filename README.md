@@ -17,7 +17,7 @@ You can easily upload books as a woocommerce product directly from the google bo
 
 **[youtube https://www.youtube.com/watch?v=RRuvdkEIebM]**
 
-> <strong><a target="_blank" href="http://saniulahsan.info">For support and help feel free to contact me.</a></strong>
+> <strong><a target="_blank" href="http://saniul.me">For support and help feel free to contact me.</a></strong>
 
 ## Key Features
 
